@@ -6,3 +6,11 @@ principals:
 - host1
 - host2
 
+---
+email: nitingr.03@gmail.com
+cert_type: User
+timestamp: 2025-02-06T08:49:25.161753418+00:00
+principals:
+- host1
+- host2
+
